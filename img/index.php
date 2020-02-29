@@ -1,2 +1,4 @@
 <?php
-header('Location: ../');
+header("Location: https://zanaseha.github.io/fingo");
+exit();
+?>
